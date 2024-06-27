@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/12c562a8cafc481c918faa0cb02a57e1/artifacts
+deleted_time: 1719442132016
+end_time: 1719441940595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 12c562a8cafc481c918faa0cb02a57e1
+run_name: beautiful-steed-359
+run_uuid: 12c562a8cafc481c918faa0cb02a57e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719441940538
+status: 3
+tags: []
+user_id: panwar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3e64cf2eb5174b319a0ae91d3d7f3d3b/artifacts
+deleted_time: 1719442132016
+end_time: 1719441933223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3e64cf2eb5174b319a0ae91d3d7f3d3b
+run_name: bemused-frog-55
+run_uuid: 3e64cf2eb5174b319a0ae91d3d7f3d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719441933154
+status: 3
+tags: []
+user_id: panwar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0808c60a723e4e41ab806eb9cf7d90e5/artifacts
+deleted_time: 1719443164550
+end_time: 1719441996688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0808c60a723e4e41ab806eb9cf7d90e5
+run_name: fun-dog-945
+run_uuid: 0808c60a723e4e41ab806eb9cf7d90e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719441996626
+status: 3
+tags: []
+user_id: panwar
