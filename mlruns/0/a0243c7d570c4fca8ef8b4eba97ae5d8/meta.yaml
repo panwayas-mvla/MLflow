@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a0243c7d570c4fca8ef8b4eba97ae5d8/artifacts
+deleted_time: 1719442132016
+end_time: 1719441901571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a0243c7d570c4fca8ef8b4eba97ae5d8
+run_name: enthused-dove-765
+run_uuid: a0243c7d570c4fca8ef8b4eba97ae5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719441901489
+status: 3
+tags: []
+user_id: panwar

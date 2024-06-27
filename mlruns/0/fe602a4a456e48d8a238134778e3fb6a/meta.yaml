@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe602a4a456e48d8a238134778e3fb6a/artifacts
+end_time: 1719443138466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe602a4a456e48d8a238134778e3fb6a
+run_name: rebellious-lark-694
+run_uuid: fe602a4a456e48d8a238134778e3fb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719443138335
+status: 3
+tags: []
+user_id: panwar
